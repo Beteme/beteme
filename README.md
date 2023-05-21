@@ -3,9 +3,9 @@
 <h2> Bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-👋Soy un apasionado programador front-end junior con un enfoque especial en el desarrollo web. Mi objetivo es crear experiencias digitales atractivas y funcionales que cautiven a los usuarios. Tengo experiencia trabajando con HTML, CSS y JavaScript, y estoy emocionado por aprender y dominar nuevas tecnologías en el mundo del front-end.
+👋Soy un apasionado programador junior con un enfoque especial en el desarrollo web. Mi objetivo es crear experiencias digitales atractivas y funcionales que cautiven a los usuarios. Tengo experiencia trabajando con HTML, CSS y JavaScript, y estoy emocionado por aprender y dominar nuevas tecnologías en el mundo del frontend y backend.
 </p>
-<p>🌱 Como programador en crecimiento, estoy constantemente ampliando mis conocimientos a través de cursos, tutoriales y proyectos personales. Me apasiona el diseño responsivo, la optimización del rendimiento y la accesibilidad web. Siempre estoy dispuesto a enfrentar nuevos desafíos y aprender de ellos. Tambien me estoy formando en tecnologias del BackEnd como Java y Python.</p>
+<p>🌱 Como programador en crecimiento, estoy constantemente ampliando mis conocimientos a través de cursos, tutoriales y proyectos personales. Me apasiona el diseño responsivo, la optimización del rendimiento y la accesibilidad web. Siempre estoy dispuesto a enfrentar nuevos desafíos y aprender de ellos. Tambien me estoy afianzandome en tecnologias del BackEnd como Java y Python.</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
