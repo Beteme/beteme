@@ -51,6 +51,20 @@
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+- 🌐 Social:
+    
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bennyteram) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/beteme) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/beteme)
+
+- 📊 GitHub Stats:
+    
+![](https://github-readme-stats.vercel.app/api?username=beteme&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=beteme&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beteme&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+- 🐦 Latest Tweet
+    
+[![](https://gtce.itsvg.in/api?username=beteme)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
     
 </p>
 
