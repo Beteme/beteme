@@ -17,7 +17,7 @@ Soy **Benny Terán Mena**, desarrollador web y analista de datos enfocado en cre
 ## 🚀 Tecnologías & Herramientas
 
 - Lenguajes: `PHP`, `JavaScript`, `Python`, `R`
-- Frontend: `![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)`, `![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)`, `![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)`
+- Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - Backend: `MySQL`, `MariaDB`, `LAMP`, `Sessions`, `Roles`
 - Análisis de Datos: `R`, `Python (Pandas, Jupyter)`
 - Herramientas: `Git`, `GitHub`, `Asana`, `VSCode`, `JetBrains IDEs`
