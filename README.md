@@ -39,8 +39,8 @@ Soy **Benny Terán Mena**, desarrollador web y analista de datos enfocado en cre
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**beteme**&show_icons=true&theme=tokyonight&hide_title=false&hide=issues&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**beteme**&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beteme&show_icons=true&theme=tokyonight&hide_title=false&hide=issues&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beteme&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
 ---
