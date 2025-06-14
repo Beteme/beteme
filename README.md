@@ -1,4 +1,4 @@
-<img src="https://github.com/Beteme/beteme/blob/main/Benny%20TeraM%20SD.png">
+<img src="https://github.com/Beteme/beteme/blob/main/Banner%Benny%TeraM.png">
 
 ### 👋 ¡Hola!
 
